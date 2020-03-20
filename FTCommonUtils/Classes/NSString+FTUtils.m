@@ -7,7 +7,6 @@
 
 #import "NSString+FTUtils.h"
 
-#import <AppKit/AppKit.h>
 
 
 @implementation NSString (FTUtils)
