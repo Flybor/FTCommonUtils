@@ -1,0 +1,6 @@
+framework module Pods_FTCommonUtils_Tests {
+  umbrella header "Pods-FTCommonUtils_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

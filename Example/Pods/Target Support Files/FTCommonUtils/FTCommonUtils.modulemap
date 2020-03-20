@@ -1,0 +1,6 @@
+framework module FTCommonUtils {
+  umbrella header "FTCommonUtils-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - FTCommonUtils (0.1.0)
+
+DEPENDENCIES:
+  - FTCommonUtils (from `../`)
+
+EXTERNAL SOURCES:
+  FTCommonUtils:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FTCommonUtils: 8685e8218be44612460c6ffe2080dc1908aa7985
+
+PODFILE CHECKSUM: b34f54f5fa0a700313b2ef46300566905e46f355
+
+COCOAPODS: 1.9.1
